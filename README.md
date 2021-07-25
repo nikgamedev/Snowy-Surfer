@@ -1,2 +1,2 @@
 # Snowy-Surfer
- This is webgl version of "Snowy-Surfer".
+ Play on web from here https://nikgamedev.github.io/Snowy-Surfer/
